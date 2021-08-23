@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "BGG Personal",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://boardgamegeek.com/*",
+        "https://boardgamegeek.com/*"
+      ],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": { },
+  "web_accessible_resources": ["script.js"]
+}
