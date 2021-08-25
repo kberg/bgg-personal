@@ -1,4 +1,4 @@
-# bgg-personal
+# Boardgamegeek Quick Hide
 This Chrome Extension adds a link exposing the "Flag this thread for personal reasons" functionality on BoardGameGeek. Excellent for managing large and ever-changing geeklists where you don't want to be reminded of elements you've already viewed and evaluated, like auctions or local marketplaces.
 
 Normally to hide an item from a Geeklist you must:
